@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%;">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%;" >
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="auto">, I'm Narayan Sahu</h1>
 <h3 align="center">A passionate web developer from India</h3>
