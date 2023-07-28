@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%; display:block; margin:auto;">
+<div style="display: flex; justify-content: center;">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" data-canonical-src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" style="max-width:100%; display:block;">
+</div>
+
 
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 <h1 align="center">Hi 👋, I'm Narayan Sahu</h1>
