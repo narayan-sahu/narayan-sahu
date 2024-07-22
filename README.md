@@ -1,5 +1,5 @@
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
-<h1 align="center">Hi 👋, I'm Narayan Sahu</h1>
+<h1 align="center">Hey 👋🏻, I'm Narayan Sahu</h1>
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 # 💫 About Me:
