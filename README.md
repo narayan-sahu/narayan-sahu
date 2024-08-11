@@ -3,7 +3,7 @@
 <h3 align="center">A Passionate Fullstack Developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on CrowdFunding DApp<br>👯 I’m looking to collaborate on Open Source Contributions<br>🤝 I’m looking for help with Web3 community building<br>🌱 I’m currently learning Fullstack Development<br>⚡ Fun fact I Look dumb but a hidden warrior
+🔭 I’m currently building on Java Fullstack<br>🫂 I’m looking to collaborate on Open Source Contributions<br>🤝 I’m looking for help with Decentalization infrastructure<br>🌱 I’m currently learning Fullstack Development<br> 🤺 I may look clueless, but I'm secretly a code ninja!
 
 
 ## 🌐 Socials:
