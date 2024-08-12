@@ -1,9 +1,9 @@
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 <h1 align="center">Hey GoodDay 👋🏻, I'm <b>Narayan</b> </h1>
-<h3 align="center">A Passionate Fullstack Developer from India</h3>
+<h3 align="center">A Fullstack Software Developer from India</h3>
 
 # 👨🏻‍💻 About Me:
-🔭 I’m currently building on Java Fullstack<br>🫂 I’m looking to collaborate on Open Source Contributions<br>🤝 I’m looking for help with Decentalization infrastructure<br>🌱 I’m currently learning Fullstack Development<br> 🤺 I may look clueless, but I'm secretly a code ninja!
+🔭 I’m currently building on Java Fullstack<br>🫂 I’m looking to collaborate on Open Source Contributions<br>🫱🏻‍🫲🏻 I’m looking for help with Decentalization infrastructure<br>🔰 I’m currently learning Fullstack Development<br> 🤺 I may look clueless, but I'm secretly a code ninja!
 
 
 ## 🌐 Socials:
