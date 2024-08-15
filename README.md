@@ -44,7 +44,7 @@ Feel free to explore my repositories and connect with me! 😊
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-<h4> 📬 Let's connect </h4>
+### 📬 Let's connect 
 <p align="left">
 <a href="https://www.linkedin.com/in/narayansahu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://x.com/heynarayan"><img src="https://img.icons8.com/ios/50/twitterx--v2.png"/></a>
