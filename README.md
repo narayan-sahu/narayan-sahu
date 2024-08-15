@@ -6,7 +6,7 @@
 <h3 align="center">A Fullstack Software Developer from India</h3>
 
 <p align="left">
-  <img src="https://tenor.com/en-GB/view/border-line-violet-gradient-gif-17763159" width="1920">
+  <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0095.gif" width="1920">
 </p>
 
 # 👨🏻‍💻 About Me:
