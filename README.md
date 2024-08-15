@@ -2,7 +2,7 @@
   <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNpNGUzZ2J3NGM5MWMzMmI1MnYxd2QycjZybTZ5ZDdpOHlldzE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hey GoodDay , I'm <b style="color:#61cf5a;">Narayan</b> </h1>
+<h1 align="center">Hey GoodDay 👋🏻, I'm <b style="color:#61cf5a;">Narayan</b> </h1>
 <h3 align="center">A Fullstack Software Developer from India</h3>
 
 
