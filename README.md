@@ -2,21 +2,8 @@
   <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNpNGUzZ2J3NGM5MWMzMmI1MnYxd2QycjZybTZ5ZDdpOHlldzE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding">
 </div>
 
-<h1 align="center">Hey GoodDay <span style="display:inline-block; animation:wave 2s infinite; transform-origin: 70% 70%;">👋</span>, I'm <b style="color:	#61cf5a; font-size:1.2em;">Narayan</b> </h1>
+<h1 align="center">Hey GoodDay 👋🏻, I'm <b style="color:#61cf5a;">Narayan</b> </h1>
 <h3 align="center">A Fullstack Software Developer from India</h3>
-
-<style>
-@keyframes wave {
-  0% { transform: rotate(0.0deg); }
-  10% { transform: rotate(14.0deg); }
-  20% { transform: rotate(-8.0deg); }
-  30% { transform: rotate(14.0deg); }
-  40% { transform: rotate(-4.0deg); }
-  50% { transform: rotate(10.0deg); }
-  60% { transform: rotate(0.0deg); }
-  100% { transform: rotate(0.0deg); }
-}
-</style>
 
 # 👨🏻‍💻 About Me:
 🔭 I’m currently building on Java Fullstack<br>🫂 I’m looking to collaborate on Open Source Contributions<br>🫱🏻‍🫲🏻 I’m looking for help with Decentalization infrastructure<br>🔰 I’m currently learning Fullstack Development<br> 🤺 I may look clueless, but I'm secretly a code ninja!
