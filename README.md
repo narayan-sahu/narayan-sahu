@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNpNGUzZ2J3NGM5MWMzMmI1MnYxd2QycjZybTZ5ZDdpOHlldzE2NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" alt="coding">
+</div>
+
 <a target="_blank" rel="noopener noreferrer" href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"></a>
 <h1 align="center">Hey GoodDay 👋🏻, I'm <b>Narayan</b> </h1>
 <h3 align="center">A Fullstack Software Developer from India</h3>
