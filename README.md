@@ -32,10 +32,11 @@
   
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=narayan-sahu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan-sahu&theme=radical&hide_border=false" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=narayan-sahu&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="margin-bottom: 20px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narayan-sahu&theme=radical&hide_border=false" alt="GitHub Streak Stats" style="margin-bottom: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan-sahu&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 
 
