@@ -37,7 +37,7 @@
 <h4> 📬 Let's connect </h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/narayansahu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="x.com/heynarayan"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/></a>
+<a href="x.com/heynarayan"><img src="https://img.icons8.com/ios/50/twitterx--v2.png"/></a>
   <a href="mailto:narayan.nerd@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
   
