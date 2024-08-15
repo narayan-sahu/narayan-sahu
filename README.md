@@ -9,8 +9,18 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-## 👨🏻‍💻 About Me:
-🔭 I’m currently building on Java Fullstack<br>🫂 I’m looking to collaborate on Open Source Contributions<br>🫱🏻‍🫲🏻 I’m looking for help with Decentalization infrastructure<br>🔰 I’m currently learning Fullstack Development<br> 🤺 I may look clueless, but I'm secretly a code ninja!
+## 🙋🏻‍♂️ About Me:
+- 👨🏻‍💻 **Skilled Software Developer:** Proficient in Java, Python, C, HTML, CSS, JavsScript and MySQL.
+
+- 🌱 **Open to Open Source Collaborations:** Looking to leverage my skills in open source development projects.
+
+- 🦾 **Innovative Problem Solver:** Successfully tackled complex challenges in two real-world software projects, demonstrating exceptional problem-solving abilities.
+
+- 💻 **Aspiring Software Developer:** Dedicated to continuous learning, aspiring to become a successful and innovative software developer.
+
+- 🧑🏻‍🎓 **Results-oriented Leader and Team Player:** Achieved project success through effective communication, teamwork, and adaptability.
+
+Feel free to explore my repositories and connect with me! 😊
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
