@@ -34,8 +34,12 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narayansahu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12864677) [![X](https://img.shields.io/twitter/follow/heynarayan)](https://x.com/heynarayan) 
+<h4> 📬 Let's connect </h4>
+<p align="left">
+<a href="https://www.linkedin.com/in/narayansahu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="x.com/heynarayan"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/></a>
+  <a href="mailto:narayan.nerd@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
+</p>
   
 
 
