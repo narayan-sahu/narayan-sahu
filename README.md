@@ -57,6 +57,6 @@ Feel free to explore my repositories and connect with me! 😊
 ### 📬 Let's connect:
 <p align="left">
 <a href="https://www.linkedin.com/in/narayansahu/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="https://x.com/heynarayan"><img src="https://img.icons8.com/ios/50/twitterx--v2.png"/></a>
+<a href="https://x.com/heynarayan"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png"/></a>
 <a href="mailto:narayan.nerd@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
 </p>
