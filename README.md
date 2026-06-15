@@ -21,26 +21,6 @@ Building reliable and scalable systems through automation, observability, and cl
 
 ---
 
-# ⚡ Current Focus
-
-- ☁️ Cloud Infrastructure
-- ⚙️ Infrastructure as Code
-- 🚀 CI/CD Automation
-- 🐳 Kubernetes & Containerization
-- 📈 Observability & Monitoring
-- 🔒 Reliability Engineering
-
----
-
-# 🌱 Currently Learning
-
-- ☸️ Kubernetes
-- 📊 Grafana & Prometheus
-- 🏗️ Platform Engineering
-- 🔐 Security & Best Practices
-
----
-
 # 🛠️ Tech Stack
 
 <table>
