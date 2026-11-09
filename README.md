@@ -1,96 +1,108 @@
 <div align="center">
 
-# Hey 👋🏻, I'm Narayan
+# Narayan Sahu
 
-### Site Reliability Engineer • DevOps Engineer • Cloud Enthusiast
+### Cloud DevOps & Site Reliability Engineer
 
-Building reliable and scalable systems through automation, observability, and cloud-native infrastructure.
+**CLOUD INFRASTRUCTURE · AUTOMATION · OBSERVABILITY · RELIABILITY**
+
+Building reliable cloud infrastructure through automation, monitoring, and operational discipline.
+
+[ LinkedIn ](https://www.linkedin.com/in/narayansahu/) &nbsp;·&nbsp; [ Email ](mailto:narayansahu.career@gmail.com) &nbsp;·&nbsp; [ GitHub ](https://github.com/narayan-sahu)
 
 </div>
 
 ---
 
-# 🙋🏻‍♂️ About Me
+## About Me
 
-- 🔧 **Site Reliability Engineer** with experience in production support and incident management.
-- ☁️ Working with **Google Cloud Platform (GCP)** and automating infrastructure using **Terraform**.
-- 🚀 Building and maintaining CI/CD pipelines with **Jenkins** and GitHub.
-- 📈 Monitoring applications and infrastructure using **Dynatrace**.
-- 🐳 Exploring Kubernetes and modern platform engineering practices.
-- 💡 Interested in Site Reliability Engineering, Platform Engineering, and building scalable cloud-native systems.
+I'm a Cloud DevOps & Site Reliability Engineer at **Wipro**, with nearly 2 years of professional experience working with cloud infrastructure, production operations, and automation.
+
+My work primarily focuses on maintaining reliable GCP environments, improving operational efficiency, and supporting infrastructure and deployment workflows.
+
+- **Cloud Infrastructure:** Managing and maintaining production infrastructure on Google Cloud Platform.
+- **Infrastructure Automation:** Provisioning and managing infrastructure using Terraform.
+- **Production Operations:** Monitoring system health, troubleshooting incidents, and performing root cause analysis.
+- **CI/CD:** Working with Jenkins and GitHub Actions to support automated delivery workflows.
+- **Observability:** Monitoring infrastructure and application performance using Dynatrace and Grafana.
+- **Automation:** Developing Python and Bash scripts to simplify repetitive operational tasks.
+
+I'm particularly interested in **Cloud Engineering, Site Reliability Engineering, Platform Engineering, and Infrastructure Automation**.
 
 ---
 
-# 🛠️ Tech Stack
+## Technical Skills
 
 <table>
 <tr>
 <td align="center" width="33%">
 
-### ☁️ Cloud
-<img src="https://skillicons.dev/icons?i=gcp,aws,azure"/>
+### Cloud Platforms
+
+<img src="https://skillicons.dev/icons?i=gcp,aws,azure" alt="GCP, AWS, Azure" />
 
 </td>
-
 <td align="center" width="33%">
 
-### ⚙️ Infrastructure as Code
-<img src="https://skillicons.dev/icons?i=terraform"/>
+### Infrastructure as Code
+
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />
 
 </td>
-
 <td align="center" width="33%">
 
-### 🚀 CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions"/>
+### CI/CD & Automation
+
+<img src="https://skillicons.dev/icons?i=jenkins,githubactions" alt="Jenkins, GitHub Actions" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-### 🐳 Containers & Orchestration
-<img src="https://skillicons.dev/icons?i=docker,kubernetes"/>
+### Containers & Orchestration
 
-</td>
-
-<td align="center">
-
-### 📈 Monitoring & Observability
-
-<img src="https://skillicons.dev/icons?i=grafana"/>
-<img src="https://cdn.simpleicons.org/dynatrace/1496FF" width="48"/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker, Kubernetes" />
 
 </td>
+<td align="center" width="33%">
 
-<td align="center">
+### Monitoring & Observability
 
-### 💻 Languages & Scripting
-<img src="https://skillicons.dev/icons?i=python,bash,powershell"/>
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/dynatrace.svg" width="48" height="48" alt="Dynatrace" />
+
+</td>
+<td align="center" width="33%">
+
+### Programming & Scripting
+
+<img src="https://skillicons.dev/icons?i=python,bash,powershell" alt="Python, Bash, PowerShell" />
 
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-### 🖥️ Operating Systems
-<img src="https://skillicons.dev/icons?i=linux,ubuntu"/>
+### Operating Systems
 
-</td>
-
-<td align="center">
-
-### 🔧 Version Control
-<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu" alt="Linux, Ubuntu" />
 
 </td>
+<td align="center" width="33%">
 
-<td align="center">
+### Version Control
 
-### 🗄️ Database
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" />
+
+</td>
+<td align="center" width="33%">
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
 
 </td>
 </tr>
@@ -98,43 +110,23 @@ Building reliable and scalable systems through automation, observability, and cl
 
 ---
 
-# 📊 GitHub Stats
+## Engineering Interests
 
-<div align="center">
+Areas I work with and continue to develop:
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=narayan-sahu&theme=tokyonight&show_icons=true&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narayan-sahu&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📬 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/narayansahu/">
-<img src="https://img.icons8.com/color/48/linkedin.png"/>
-</a>
-
-<a href="https://x.com/heynarayan">
-<img src="https://img.icons8.com/ios-filled/50/twitterx.png"/>
-</a>
-
-<a href="mailto:narayan.nerd@gmail.com">
-<img src="https://img.icons8.com/color/48/gmail-new.png"/>
-</a>
-
-</p>
+- **Cloud Reliability:** Infrastructure availability, performance monitoring, and operational troubleshooting.
+- **Infrastructure as Code:** Repeatable infrastructure provisioning and configuration management.
+- **DevOps Automation:** Reducing manual operational effort through scripting and automated workflows.
+- **Observability:** Improving infrastructure visibility through monitoring, metrics, and troubleshooting.
+- **Platform Engineering:** Learning approaches to building consistent and reliable infrastructure platforms.
+- **Containerization:** Working with Docker and Kubernetes-based environments.
 
 ---
 
 <div align="center">
 
-## ⚙️ Automating Infrastructure • Monitoring Systems • Building Reliability
+**CLOUD INFRASTRUCTURE · AUTOMATION · OBSERVABILITY · RELIABILITY**
 
-![](https://komarev.com/ghpvc/?username=narayan-sahu&style=for-the-badge&color=0E75B6)
+*Automate. Scale. Optimize. Deliver.*
 
 </div>
-```
